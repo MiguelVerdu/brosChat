@@ -1,0 +1,19 @@
+<ion-view title="Acompanhantes">
+    <ion-content overflow-scroll="true" padding="true" class="has-header" >
+        <div class="list card" ng-repeat="user in users">
+            <div class="item item-divider">{{user.profile.firstname}}</div>
+            <div class="item item-body">
+                <div style="line-height: 250px; border: 1px solid rgb(238, 238, 238); border-radius: 3px; text-align: center; background-color: rgb(255, 255, 255);">
+                    <img class="full-image" src="{{user.profileImage}}">
+                    <!--i class="icon ion-image" style="font-size: 64px; color: rgb(136, 136, 136); vertical-align: middle;"></i-->
+                </div>
+                <div class="button-bar">
+                    <a href="#/side-menu21/perfil/{{user.profile.user_id}}" id="acompanhantes-button9" class="button   button-block button-clear icon ion-android-happy"></a>
+                    <button id="acompanhantes-button10" class="button  button-block button-clear icon ion-android-add-circle"></button>
+                    <a href="#/galeria/{{user.profile.user_id}}" id="acompanhantes-button11" class="button  button-block button-clear icon ion-ios-photos"></a>
+                </div>
+                
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
