@@ -9,6 +9,7 @@
         "gulp-sass": "^3.1.0"
     },
     "dependencies": {
+        "@ionic-native/sqlite": "^4.2.1",
         "cordova-android": "^6.2.3",
         "cordova-plugin-device": "^1.1.4",
         "cordova-plugin-splashscreen": "^4.0.3",
