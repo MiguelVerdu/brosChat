@@ -10,11 +10,7 @@
         "spec": "1.3.1",
         "type": "version"
       },
-<<<<<<< HEAD
       "C:\\Users\\Christian\\Desktop\\IonicProject\\node_modules"
-=======
-      "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules"
->>>>>>> Cristian
     ]
   ],
   "_from": "cordova-plugin-whitelist@1.3.1",
@@ -49,11 +45,7 @@
   "_shasum": "9fd1db7fd6c956951d34771cdcd97f66ced516df",
   "_shrinkwrap": null,
   "_spec": "cordova-plugin-whitelist@1.3.1",
-<<<<<<< HEAD
   "_where": "C:\\Users\\Christian\\Desktop\\IonicProject\\node_modules",
-=======
-  "_where": "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules",
->>>>>>> Cristian
   "author": {
     "name": "Apache Software Foundation"
   },

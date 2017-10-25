@@ -2,7 +2,6 @@
   "_args": [
     [
       {
-<<<<<<< HEAD
         "raw": "cordova-plugin-splashscreen@~4.0.1",
         "scope": null,
         "escapedName": "cordova-plugin-splashscreen",
@@ -15,20 +14,6 @@
     ]
   ],
   "_from": "cordova-plugin-splashscreen@>=4.0.1 <4.1.0",
-=======
-        "raw": "cordova-plugin-splashscreen@4.0.3",
-        "scope": null,
-        "escapedName": "cordova-plugin-splashscreen",
-        "name": "cordova-plugin-splashscreen",
-        "rawSpec": "4.0.3",
-        "spec": "4.0.3",
-        "type": "version"
-      },
-      "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules"
-    ]
-  ],
-  "_from": "cordova-plugin-splashscreen@4.0.3",
->>>>>>> Cristian
   "_id": "cordova-plugin-splashscreen@4.0.3",
   "_inCache": true,
   "_location": "/cordova-plugin-splashscreen",
@@ -44,7 +29,6 @@
   "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-<<<<<<< HEAD
     "raw": "cordova-plugin-splashscreen@~4.0.1",
     "scope": null,
     "escapedName": "cordova-plugin-splashscreen",
@@ -52,15 +36,6 @@
     "rawSpec": "~4.0.1",
     "spec": ">=4.0.1 <4.1.0",
     "type": "range"
-=======
-    "raw": "cordova-plugin-splashscreen@4.0.3",
-    "scope": null,
-    "escapedName": "cordova-plugin-splashscreen",
-    "name": "cordova-plugin-splashscreen",
-    "rawSpec": "4.0.3",
-    "spec": "4.0.3",
-    "type": "version"
->>>>>>> Cristian
   },
   "_requiredBy": [
     "#USER",
@@ -69,13 +44,8 @@
   "_resolved": "https://registry.npmjs.org/cordova-plugin-splashscreen/-/cordova-plugin-splashscreen-4.0.3.tgz",
   "_shasum": "773cd1363c1f3bacb9901663e9e3793dd3e0a19d",
   "_shrinkwrap": null,
-<<<<<<< HEAD
   "_spec": "cordova-plugin-splashscreen@~4.0.1",
   "_where": "C:\\Users\\Christian\\Desktop\\IonicProject\\node_modules",
-=======
-  "_spec": "cordova-plugin-splashscreen@4.0.3",
-  "_where": "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules",
->>>>>>> Cristian
   "author": {
     "name": "Apache Software Foundation"
   },

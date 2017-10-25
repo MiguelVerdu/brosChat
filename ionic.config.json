@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "IonicProject",
-=======
-  "name": "BrossChat",
->>>>>>> Cristian
   "app_id": "",
   "type": "ionic1",
   "integrations": {

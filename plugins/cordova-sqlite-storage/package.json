@@ -2,7 +2,6 @@
   "_args": [
     [
       {
-<<<<<<< HEAD
         "raw": "cordova-sqlite-storage",
         "scope": null,
         "escapedName": "cordova-sqlite-storage",
@@ -15,20 +14,6 @@
     ]
   ],
   "_from": "cordova-sqlite-storage@latest",
-=======
-        "raw": "cordova-sqlite-storage@2.0.4",
-        "scope": null,
-        "escapedName": "cordova-sqlite-storage",
-        "name": "cordova-sqlite-storage",
-        "rawSpec": "2.0.4",
-        "spec": "2.0.4",
-        "type": "version"
-      },
-      "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules"
-    ]
-  ],
-  "_from": "cordova-sqlite-storage@2.0.4",
->>>>>>> Cristian
   "_id": "cordova-sqlite-storage@2.0.4",
   "_inCache": true,
   "_location": "/cordova-sqlite-storage",
@@ -44,7 +29,6 @@
   "_npmVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
-<<<<<<< HEAD
     "raw": "cordova-sqlite-storage",
     "scope": null,
     "escapedName": "cordova-sqlite-storage",
@@ -52,15 +36,6 @@
     "rawSpec": "",
     "spec": "latest",
     "type": "tag"
-=======
-    "raw": "cordova-sqlite-storage@2.0.4",
-    "scope": null,
-    "escapedName": "cordova-sqlite-storage",
-    "name": "cordova-sqlite-storage",
-    "rawSpec": "2.0.4",
-    "spec": "2.0.4",
-    "type": "version"
->>>>>>> Cristian
   },
   "_requiredBy": [
     "#USER",
@@ -69,13 +44,8 @@
   "_resolved": "https://registry.npmjs.org/cordova-sqlite-storage/-/cordova-sqlite-storage-2.0.4.tgz",
   "_shasum": "8b5ce65c63b46b0415ca7012cc57bf2711b20371",
   "_shrinkwrap": null,
-<<<<<<< HEAD
   "_spec": "cordova-sqlite-storage",
   "_where": "C:\\Users\\Christian\\Desktop\\IonicProject\\node_modules",
-=======
-  "_spec": "cordova-sqlite-storage@2.0.4",
-  "_where": "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules",
->>>>>>> Cristian
   "author": {
     "name": "various"
   },
