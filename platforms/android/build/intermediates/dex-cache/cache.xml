@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christian\Desktop\IonicProject\platforms\android\libs\sqlite-connector.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76169ab23a4f939925491c6fe186749da5a56ee9">
+        <dex dex="C:\Users\Christian\Desktop\IonicProject\platforms\android\build\intermediates\pre-dexed\debug\sqlite-connector_143cff03d5e42c2141993040302a52e7149fd246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Christian\Desktop\IonicProject\platforms\android\build\intermediates\exploded-aar\org.apache.cordova\CordovaLib\6.2.3\debug\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a1530ac850543228ac856fe951d258efe29f918">
+        <dex dex="C:\Users\Christian\Desktop\IonicProject\platforms\android\build\intermediates\pre-dexed\debug\CordovaLib-6.2.3-debug_09a8d2ee4aa17590050dd94d9614359c58bc71a8.jar" />
+    </item>
+
+</items>
