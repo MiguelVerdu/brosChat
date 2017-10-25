@@ -2,6 +2,7 @@
   "_args": [
     [
       {
+<<<<<<< HEAD
         "raw": "ionic-plugin-keyboard@~2.2.1",
         "scope": null,
         "escapedName": "ionic-plugin-keyboard",
@@ -14,6 +15,20 @@
     ]
   ],
   "_from": "ionic-plugin-keyboard@>=2.2.1 <2.3.0",
+=======
+        "raw": "ionic-plugin-keyboard@2.2.1",
+        "scope": null,
+        "escapedName": "ionic-plugin-keyboard",
+        "name": "ionic-plugin-keyboard",
+        "rawSpec": "2.2.1",
+        "spec": "2.2.1",
+        "type": "version"
+      },
+      "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules"
+    ]
+  ],
+  "_from": "ionic-plugin-keyboard@2.2.1",
+>>>>>>> Cristian
   "_id": "ionic-plugin-keyboard@2.2.1",
   "_inCache": true,
   "_location": "/ionic-plugin-keyboard",
@@ -29,6 +44,7 @@
   "_npmVersion": "3.8.6",
   "_phantomChildren": {},
   "_requested": {
+<<<<<<< HEAD
     "raw": "ionic-plugin-keyboard@~2.2.1",
     "scope": null,
     "escapedName": "ionic-plugin-keyboard",
@@ -36,6 +52,15 @@
     "rawSpec": "~2.2.1",
     "spec": ">=2.2.1 <2.3.0",
     "type": "range"
+=======
+    "raw": "ionic-plugin-keyboard@2.2.1",
+    "scope": null,
+    "escapedName": "ionic-plugin-keyboard",
+    "name": "ionic-plugin-keyboard",
+    "rawSpec": "2.2.1",
+    "spec": "2.2.1",
+    "type": "version"
+>>>>>>> Cristian
   },
   "_requiredBy": [
     "#USER",
@@ -44,8 +69,13 @@
   "_resolved": "https://registry.npmjs.org/ionic-plugin-keyboard/-/ionic-plugin-keyboard-2.2.1.tgz",
   "_shasum": "f2a9e169bbe9b5522400347c9fd6d3467ee3fa12",
   "_shrinkwrap": null,
+<<<<<<< HEAD
   "_spec": "ionic-plugin-keyboard@~2.2.1",
   "_where": "C:\\Users\\Christian\\Desktop\\IonicProject\\node_modules",
+=======
+  "_spec": "ionic-plugin-keyboard@2.2.1",
+  "_where": "C:\\Users\\Cristian\\Documents\\GitHub\\brosChat\\node_modules",
+>>>>>>> Cristian
   "author": {
     "name": "Ionic"
   },
