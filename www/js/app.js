@@ -4,6 +4,7 @@
 // 'starter' is the name of this angular module example (also set in a <body> attribute in index.html)
 // the 2nd parameter is an array of 'requires'
 angular.module('starter', ['ionic'])
+//angular.module('myApp',['ngCordova'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -25,16 +26,59 @@ angular.module('starter', ['ionic'])
 
 .config(function($stateProvider, $urlRouterProvider){
   $stateProvider
-    .state('home', {
-      url: '',
+    .state('home',{
+      url:'',
       templateUrl: 'templates/home.html',
-      controller: 'HomeCtrl'
+      controller: 'homeCtrl'
     })
     
-    $urlRouterProvider.otherwise('');
-})
 
-.controller('HomeCtrl', function($scope){
+    $urlRouterProvider.otherwise('');
+  
+  })
+
+  .controller('homeCtrl',function($scope){
+      
+
+  })
 
   
+
+
+
+  /*document.addEventListener("devideready", function(){
+    $cordovaPlugin.someFunction().then(success, error);
+    
+  },false);
+  $ionicPlatform.ready(function(){
+    $cordovaPlugin.someFunction().then(success, error);
+  })*/
+
+/*
+  .factory('bookService', function() {
+    var books = [
+      { title: 'La colmena', year: '1951', author: 'Camilo José Cela Trulock', 
+        isbn: '843992688X', editorial: 'Anaya', cover: 'lacolmena.jpg' },
+      { title: 'La galatea', year: '1585', author: 'Miguel de Cervantes Saavedra', 
+        isbn: '0936388110', editorial: 'Anaya', cover: 'lagalatea.jpg' },
+      { title: 'El ingenioso hidalgo don Quijote de la Mancha', year: '1605', 
+        author: 'Miguel de Cervantes Saavedra', 
+        isbn: '0844273619', editorial: 'Anaya', cover: 'donquijote.jpg' },
+      { title: 'La dorotea', year: '1632', author: 'Félix Lope de Vega y Carpio', 
+        isbn: '847039360X', editorial: 'Anaya', cover: 'ladorotea.jpg' },
+      { title: 'La dragontea', year: '1602', author: 'Félix Lope de Vega y Carpio', 
+        isbn: '8437624045', editorial: 'Anaya', cover: 'ladragontea.jpg' }
+    ];
+    return {
+        getBooks: function() {
+            return books;
+        },
+        getBook: function(id) {
+            return books[id];
+        },
+
+    }
+    
 })
+*/
+

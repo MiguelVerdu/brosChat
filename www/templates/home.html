@@ -1,33 +1,18 @@
-<ion-view title="Home">
+<ion-view>
+
     <ion-content class="padding">
-        <ion-list>
-            <div class="card">
-            <div class="item item-divider">
-            Bienvenido a iBiblioteca
-            </div>
-            <div class="item item-text-wrap">
-                iBlioteca es una aplicación desarrollada con ionic que permite gestionar
-                una biblioteca de un centro educativo.Para acceder a la biblioteca pulsa en 
-                el siguiente boton:
-            </div>
-            <div class="item item-text-wrap">
-                <i class="ion-university"></i>
-                <a ui-sref="ibiblioteca"Style="text-decoration:none; color:black;">Acceso a iBiblioteca</a> 
-            </div>
+        
+
+        <div class="item-avatar">
+            <a class="item item-thumbnail-left" ng-repeat="book in books" 
+                  ui-sref="bookDetail({id: $index})">
+                  <img src="" />
+                  <p class="book">{{book.title}}:</p>
+                  <p>{{book.year}}</p>
+                  <p>{{book.author}}</p>
+                  
+            </a>
           </div>
 
-          <div class="card">
-              <div class="item item-divider">
-                Información sobre el autor
-              </div>
-              <div class="item item-text-wrap">
-                  Aplicacion desarrollada por Cristian Pérez
-              </div>
-              <div class="item item-text-wrap">
-                  <i class="ion-person"></i>
-                  <a ui-sref="autor" Style="text-decoration:none; color:black;">Consultar información</a>
-              </div>
-            </div>
-        </ion-list>
     </ion-content>
 </ion-view>
